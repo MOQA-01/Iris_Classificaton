@@ -112,4 +112,4 @@ While I’m satisfied with the performance of the models, there are still areas 
 - **Exploring Other Models**: Trying out other classifiers like **XGBoost** or **Neural Networks** could potentially yield better results.
 - **Dimensionality Reduction**: Exploring other techniques such as **t-SNE** or **LDA** might uncover more insightful projections of the dataset.
 
-Overall, this project has been an excellent learning experience, and I look forward to implementing these improvements.
+# Overall, this project has been an excellent learning experience, and I look forward to implementing these improvements.
