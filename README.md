@@ -1,4 +1,4 @@
-# Iris Identification Project Report
+# IRIS Identification Project Report
 
 ## 1. Introduction
 
